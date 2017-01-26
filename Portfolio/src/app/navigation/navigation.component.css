@@ -2,16 +2,18 @@
   float: left;
   padding: 10px;
   margin-top: 200px;
-  border: solid 3px red;
+
 }
 
 #menuBtn{
 
-  border:solid 3px black;
-  width: 45px;
-  height: 45px;
-  background-color: SlateGrey;
-  padding-top: 10px;
+  border:solid 3px teal;
+  width: 55px;
+  height: 55px;
+  background-color: rgba(0,0,0,0.2);
+  padding-top: 8px;
+  color: snow;
+  font-size: 25px;
 
   /*position*/
   position: fixed;
@@ -35,12 +37,12 @@ li{
   margin-bottom: 10px;
   padding: 5px 100px;
   position: relative;
-  background-color: lightSlateGrey;
-  color: white;
+  background-color: rgba(0,0,0,0.25);
+  color: snow;
   font-weight: bold;
 
   /*borders*/
-  border: solid 3px SlateGrey;
+  border: solid 2px teal;
   border-radius: 20px;
 
 

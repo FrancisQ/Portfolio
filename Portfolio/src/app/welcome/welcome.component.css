@@ -1,0 +1,53 @@
+#background{
+  background-image: url("../../assets/_DSC7071.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  border-top: solid 1px teal;
+  border-bottom: ridge 15px teal;
+  background-color: grey;
+
+}
+#message{
+  background-color: rgba(0,0,0,0.45);
+  height: 300px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 175px;
+  padding: 20px;
+  /*universal font/text*/
+  color: snow;
+  font-family: Georgia, "Times new Roman", serif;
+}
+#next{
+  height: 100px;
+  width: 200px;
+  margin: auto;
+  margin-top: 85px;
+  color: teal;
+  font-size: 25px;
+  text-align: center;
+
+}
+h3{
+  color: rgba(256,256,256,.4);
+  font-weight: bolder;
+  font-family: "Cambria Math", serif;
+  margin-bottom: 0px;
+}
+
+
+h1{
+  text-align: center;
+  font-weight: bold;
+}
+hr{
+  margin: 0px 25px;
+  border: solid 2px teal;
+}
+p{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 16px;
+}
